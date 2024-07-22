@@ -4,8 +4,8 @@
     - index.html
     - gitignore
     - main.css (bet ne vienintelis)
-- [ ] Paviešinti projektą per Github Pages (gausim URL)
-- [ ] Readme.md
+- [x] Paviešinti projektą per Github Pages (gausim URL)
+- [x] Readme.md
     - skirta aprašyti kas, ką ir kodėl daro
     - įterpti nuorodą į galiojantį dizainą
     - įterpti nuorodą, kur tas kodas gali būti pamatytas
