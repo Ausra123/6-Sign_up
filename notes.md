@@ -1,0 +1,23 @@
+# Procesas
+
+- [x] pradinė failų struktūra:
+    - index.html
+    - gitignore
+    - main.css (bet ne vienintelis)
+- [ ] Paviešinti projektą per Github Pages (gausim URL)
+- [ ] Readme.md
+    - skirta aprašyti kas, ką ir kodėl daro
+    - įterpti nuorodą į galiojantį dizainą
+    - įterpti nuorodą, kur tas kodas gali būti pamatytas
+- [ ] atlikti dizaino analize
+- [ ] surašyti HTML
+- [ ] išsikirpti nuotraukas ir jas panaudoti:
+    - panaudoti reliatyvų kelią
+- [ ] atskiri puslapiai, kuriuose naviguojama "ratu"
+    - Sign up
+    - Sign in
+    - Fprgot password
+- [ ] aprašome stilių:
+    - turinys turi būti ekrano centre (tiek horizontaliai, tiek vertinkaliai)
+    - turinys bus fiksuoto pločio (pikseliais)
+- [ ] stilių failas vienas, jame stilius pritaikytas visiems puslapiams
