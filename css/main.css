@@ -1,10 +1,10 @@
 
-
-body, body * { 
+body,
+body * {
     margin: 0;
     padding: 0;
     vertical-align: top;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     box-sizing: border-box;
 }
 
@@ -27,17 +27,17 @@ body, body * {
     float: left;
     background-color: rgb(200, 248, 24);
 }
-.bottom-link{
-
+.bottom-link {
+    display: inline-block;
 }
-.bottom-link > a{
-
+.bottom-link > a {
+    display: inline-block;
 }
-,close {
-
+.close {
+    display: inline-block;
 }
-.form.form{
-
+.form.form {
+    display: inline-block;
 }
 /* .pomidoras {
     background-color: red;
