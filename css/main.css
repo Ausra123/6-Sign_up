@@ -1,0 +1,47 @@
+body {
+
+} 
+.container {display: inline-block;
+    width: 800px;
+    margin-top: 100px;
+    margin-left: calc(100%-800px)/2;
+    background-color: aqua;
+    
+}
+.left-column {
+    display: inline-block;
+    width: 40%;
+    float: left;
+    background-color: rgb(238, 25, 25);
+
+
+}
+.right-column {
+    display: inline-block;
+    width: 40%;
+    float: left;
+    background-color: rgb(200, 248, 24);
+
+}
+.bottom-link{
+
+}
+.bottom-link > a{
+
+}
+,close {
+
+}
+.form.form{
+
+}
+/* .pomidoras {
+    background-color: red;
+    padding: 20px;
+    font-size: 16 px;
+} 
+    šią savybę galima pritaikyti daugeliui elemntui naudojant klases*/
+/* .form.form{} peržiūrėti CSS selektorius
+# kalba apie atributą ID. Patarimas nerašyti, nes ta taisyklė labai griežta. naudoti patariama tik pačiame HTML arba JavaScript.
+
+ */
