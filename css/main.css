@@ -16,13 +16,13 @@ body * {
     background-color: aqua;
   }
 .left-column {
-    display: inline-block;
     width: 40%;
     float: left;
+    padding: 40px;
     background-color: rgb(238, 25, 25);
+    color:white;
 }
 .right-column {
-    display: inline-block;
     width: calc(60% - 100px);
     float: left;
     background-color: rgb(200, 248, 24);
@@ -32,12 +32,42 @@ body * {
 }
 .bottom-link > a {
     display: inline-block;
+    color:white;
 }
 .close {
     display: inline-block;
 }
 .form.form {
     display: inline-block;
+    height: calc(60% - 100px);
+}
+.form.row{
+    display: inline-block;
+    width: 100%; 
+}
+.form.row + .form.row{
+    margin-bottom: 40px; 
+}
+input{
+    display: inline-block;
+    width: 100%;
+}
+label {
+    display: inline-block;
+    width: 100%;
+    color: grey;
+    font-weight: 15px;
+    font-size: 14px;
+
+}
+button {
+
+}
+.form.row > span{
+
+}
+.form.row > a{
+    
 }
 /* .pomidoras {
     background-color: red;
