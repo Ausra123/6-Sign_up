@@ -13,7 +13,7 @@ body * {
     width: 800px;
     margin-top: 100px;
     margin-left: calc(100%-800px)/2;
-    background-color: aqua;
+    background-color: #40e754;
   }
 .left-column {
     width: 40%;
@@ -41,16 +41,22 @@ body * {
     display: inline-block;
     height: calc(60% - 100px);
 }
-.form.row{
+.form.row {
     display: inline-block;
     width: 100%; 
 }
-.form.row + .form.row{
+.form.row + .form.row {
     margin-bottom: 40px; 
 }
-input{
+input {
     display: inline-block;
     width: 100%;
+    font-size: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: red;    
+    line-height: 1.8em;
 }
 label {
     display: inline-block;
@@ -58,15 +64,14 @@ label {
     color: grey;
     font-weight: 15px;
     font-size: 14px;
-
 }
 button {
 
 }
-.form.row > span{
+.form.row > span {
 
 }
-.form.row > a{
+.form.row > a {
     
 }
 /* .pomidoras {
