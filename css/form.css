@@ -30,6 +30,14 @@ label {
     color: rgb(116, 106, 106);
     font-style: italic;
 }
+input:focus{
+    background-color: yellow;
+    outline-color: red;
+}
+input:focus-visible{
+    outline-color:none;
+
+}
 button {
     float: left;
     padding: 10px;
@@ -41,4 +49,8 @@ button {
     font-size: 18px;
     line-height: 20px;
     border-radius: 21px;
+}
+button:hover { 
+    color: blue;
+    cursor: pointer;
     }
