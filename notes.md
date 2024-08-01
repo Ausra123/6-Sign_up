@@ -69,3 +69,5 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter
 Can I use 
 https://caniuse.com/
 
+Formos stilius perkiale į kitą css failą ir kitam projektui galime drąsiai naudoti, taip sutaupysime laiko.
+
